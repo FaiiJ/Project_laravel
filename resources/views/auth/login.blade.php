@@ -39,9 +39,9 @@
                     <button type="submit" class="login100-form-btn" style="margin-right: 20px;">
                         {{ __('Login') }}
                     </button>
-                    <button class="register-form-btn">
+                    <a type="button" class="register-form-btn" href="{{ route('register') }}">
                         {{ __('Register') }}
-                    </button>
+                    </a>
                 </div>
             </form>
         </div>
