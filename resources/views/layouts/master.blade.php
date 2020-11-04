@@ -29,8 +29,8 @@
 
 <body>
     <!--Navbar-->
-    <nav class="navbar navbar-dark bg-dark justify-content-between">
-        <a class="navbar-brand" style="cursor: default;">SLEEPY BANK</a>
+    <nav class="navbar navbar-light justify-content-between" style="background-color: rgb(27, 24, 24);">
+        <a class="navbar-brand" style="cursor: default; font-weight:600;">SLEEPY BANK</a>
         <form class="form-inline">
             <a class="navbar-brand" style="cursor: default;">username</a>
             <a type="button" class="btn btn-danger" href="#">LOGOUT</a>
