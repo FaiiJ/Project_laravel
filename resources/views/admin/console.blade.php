@@ -53,7 +53,8 @@
                                 </tbody>
                             </table>
                         </div>
-                        <div class="d-flex mt-4 flex-wrap">
+
+                        {{-- <div class="d-flex mt-4 flex-wrap">
                             <nav class="ml-auto">
                                 <ul class="pagination separated pagination-info">
                                     <li class="page-item"><a href="#" class="page-link"><i class="icon-arrow-left"></i></a>
@@ -66,7 +67,7 @@
                                     </li>
                                 </ul>
                             </nav>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
